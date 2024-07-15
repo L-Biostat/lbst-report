@@ -10,4 +10,10 @@ contributes:
       lof: true
       date-format: long
       include-in-header: header.tex
+    html:
+      embed-resources: true
+      toc: true
+      theme: yeti
+      subtitle: "Statistical report"
+      title-block-banner: "#223f7b"
 
